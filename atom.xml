@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ericlia.github.io</id>
+    <id>https://FineCool.github.io</id>
     <title>Where you go ?</title>
-    <updated>2020-07-31T09:33:15.707Z</updated>
+    <updated>2020-08-01T14:47:16.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ericlia.github.io"/>
-    <link rel="self" href="https://ericlia.github.io/atom.xml"/>
+    <link rel="alternate" href="https://FineCool.github.io"/>
+    <link rel="self" href="https://FineCool.github.io/atom.xml"/>
     <subtitle>“土博”鼠瞎哔哔</subtitle>
-    <logo>https://ericlia.github.io/images/avatar.png</logo>
-    <icon>https://ericlia.github.io/favicon.ico</icon>
+    <logo>https://FineCool.github.io/images/avatar.png</logo>
+    <icon>https://FineCool.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Where you go ?</rights>
     <entry>
         <title type="html"><![CDATA[shishiz]]></title>
-        <id>https://ericlia.github.io/post/shishiz/</id>
-        <link href="https://ericlia.github.io/post/shishiz/">
+        <id>https://FineCool.github.io/post/shishiz/</id>
+        <link href="https://FineCool.github.io/post/shishiz/">
         </link>
         <updated>2020-07-31T08:50:37.000Z</updated>
         <content type="html"><![CDATA[<p>123<br>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://ericlia.github.io/post/about/</id>
-        <link href="https://ericlia.github.io/post/about/">
+        <id>https://FineCool.github.io/post/about/</id>
+        <link href="https://FineCool.github.io/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
